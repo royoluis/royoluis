@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Luis, and I am a Drupal Developer with over four years of expertise.
+
+🚀 Extensive experience working with <b>Drupal</b> (7, 8, 9, and 10), <b>PHP</b>, <b>Symfony</b>, <b>HTML</b>, <b>CSS</b>, <b>Bootstrap</b>, <b>MySQL</b>, <b>JavaScript</b>, <b>Ajax</b>, <b>Git</b> (GitHub, GitLab and Bitbucket), <b>Docker</b>, <b>Composer</b>, <b>Drush</b>, <b>REST API</b> and <b>Twig</b>, among others.
+
+💻 Feel free to check out my <b>pinned repositories</b>.
+
+📫 How to reach me: luisroyozgz@gmail.com and <a href="https://www.linkedin.com/in/luisroyoantin/">my LinkedIn profile</a>. 
 
 <!--
 **royoluis/royoluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
